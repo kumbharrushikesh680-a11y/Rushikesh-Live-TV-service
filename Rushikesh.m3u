@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1HD @virat10" group-title="Sports | Sportlink" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1HD
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
